@@ -45,7 +45,7 @@ The project is organized into the following sections:
 
 ## Student
 
-Hanns Peter Princivil
+HxP
 
 ## Date
 
